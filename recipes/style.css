@@ -1,0 +1,48 @@
+/*style.css*/
+ /* index page */
+#home-page {
+    color: brown;
+    background-color: rgba(0, 0, 255, 0.1);
+    font-family: Arial, Helvetica, sans-serif "Times New Romans";
+  }
+  #mlink, #dlink {
+    
+    font-weight: 800;
+    background-color: whitesmoke;
+  }
+  
+
+ /* doughnut page */
+
+ #doughnut-page {
+  color: darkblue;
+  background-color: lightpink;
+  font-family: Arial, Helvetica, sans-serif;
+ }
+ .title {
+  font-style: italic;
+}
+ .title, .steps, .ingredients {
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p, .list {
+  font-family: Arial, Helvetica, sans-serif; /* Doughnut and Marghi Page */
+}
+
+  .doughnut {
+    height: auto;
+    width: 350px;
+  }
+
+  /* Marghi special */
+#marghi {
+  color: darkred;
+  background-color: floralwhite;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.m-title, .m-ingredients, .m-steps {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+}
