@@ -27,8 +27,8 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-p, .list {
-  font-family: Arial, Helvetica, sans-serif; /* Doughnut and Marghi Page */
+p, .olist {
+  font-family: Arial, Helvetica, sans-serif; /* olist */
 }
 
   .doughnut {
@@ -40,9 +40,12 @@ p, .list {
 #marghi {
   color: darkred;
   background-color: floralwhite;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times;
 }
 .m-title, .m-ingredients, .m-steps {
   color: red;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, verdana, tahoma, sans-serif;
+}
+p, .ulist {
+  font-family: monospace, 'Courier New', Courier, 'lucida console'; /* ulist */
 }
