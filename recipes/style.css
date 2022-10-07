@@ -4,11 +4,7 @@
     color: brown;
     background-color: rgba(0, 0, 255, 0.1);
     font-family: Arial, Helvetica, sans-serif "Times New Romans";
-    padding: 20px;
-    margin: 60px;
-    border: 10px solid blue;
-    height: 50px;
-    width: 500px;
+  
   }
   
  /* doughnut page */
@@ -37,11 +33,11 @@ p, .olist, .ulist {
 
   /* Marghi special */
 #marghi {
-  color: darkred;
+  color: darkblue;
   background-color: floralwhite;
   font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times;
 }
 .m-title, .m-ingredients, .m-steps {
-  color: red;
+  color: blue;
   font-family: Arial, verdana, tahoma, sans-serif;
 }
